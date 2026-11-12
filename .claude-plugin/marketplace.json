@@ -1,0 +1,11 @@
+{
+  "name": "claude-typing-girl",
+  "owner": { "name": "Janson1212" },
+  "plugins": [
+    {
+      "name": "typing-girl",
+      "source": "./",
+      "description": "Replaces the thinking row with an animated drawing of a girl typing on her laptop."
+    }
+  ]
+}
