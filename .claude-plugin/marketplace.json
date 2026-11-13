@@ -5,7 +5,7 @@
     {
       "name": "typing-girl",
       "source": "./",
-      "description": "Replaces the thinking row with an animated drawing of a girl typing on her laptop."
+      "description": "Shows an anime girl typing in the chat while Claude works, and a tiny runner in the thinking row."
     }
   ]
 }
